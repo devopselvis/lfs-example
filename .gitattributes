@@ -1,0 +1,2 @@
+*.ex4 filter=lfs diff=lfs merge=lfs -text
+*.ex5 filter=lfs diff=lfs merge=lfs -text
